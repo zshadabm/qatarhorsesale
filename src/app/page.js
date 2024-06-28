@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className="overflow-hidden">
 
-  {/* body */}
+ 
     <section>
     <Hero />
       <div className="container mx-auto pb-4  h-screen" >
